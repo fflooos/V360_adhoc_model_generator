@@ -1,4 +1,4 @@
-# VPortal Report Template generator
+# V360 AdHoc Model generator
 
 XML Report Template generator
 
